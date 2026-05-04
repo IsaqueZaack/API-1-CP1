@@ -1,4 +1,4 @@
-package br.com.fiap.api_1;
+package br.com.fiap.api_1.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
